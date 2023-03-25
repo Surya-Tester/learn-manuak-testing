@@ -1,1 +1,1 @@
-# learn-manuak-testing
+# learn-manual-testing
