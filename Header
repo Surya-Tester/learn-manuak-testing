@@ -1,0 +1,16 @@
+# Test case for headerTab
+verify the header addded on the webpage
+verify the header section are aligned
+verify the icons are aligned should be related to the link test
+verify whether link list should be readable or not.
+verify the logo of website added on the header is aligned or not.
+verify the same header used on the whole website pages.
+verify header is sticky on the whole page or fixed as per requirements and design
+verify whether all links should be opening on the header or not.
+verify the click on the link on the header the relation page should be open.
+verify the mouse hover color change or not for the link added on the header menu.
+verify that selected header links should remain ACTIVE to inform the user about the clicked screen/page
+verify search bar is added on the header menu or not.
+verify the header,no body part should look the same.the header should differentiate someone's section.
+verify icon color should also change on mouse hover on the if icons are added.
+verify dropdown options added on header shown on mouse hover or click.
