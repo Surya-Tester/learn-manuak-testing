@@ -1,1 +1,18 @@
-
+#Test cases for footer section
+verify the footer section added on the end of the webpage
+verify the footer section is aligned at the end of the webpage.
+verify element is aligned at the footer section or not.
+verify the logo shown at the footer section.
+verify logo is aligned on the footer.
+verify the fotter section should be same all the pages.
+verify any pages on click on the logo icon should be display the home page.
+verify by clicking on the links correct pages should be open 
+verify all social links with icons are added at the footer of the webpage.
+verify no spelling mistakes for the text on the footer section.
+verify there must be equal space for the element links, social links and button, and social links from top and bottom at the footer section.
+verify no broken links on the footer section.
+verify whether the subscription to the newsletter sections are present or not.
+verify that the footer section content is accurate and up to date.
+verify that all links are clickable or not.
+verify that the footer section transalated correctely and display in the correct language.
+verify that footer section it is compataible with a wide range of platforms.
