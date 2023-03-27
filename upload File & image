@@ -1,0 +1,26 @@
+# test cases for upload file and image.
+verify upload file button is present or not
+verify the upload button or link text should be clickable.
+verfiy that the whole button including the button text should be clickable.
+verify icons added with the upload button is in the design and is aligned or not.
+verify on click on the upload button window should be open to select the file.
+verify cancel button is working. on click on the button window page should be closed.
+verify that user can able to select and upload multiple files if required.
+verify that user can upload multiple files at once.
+verify the order of the file should be same as the files uploaded or both cases one by one multiple files uploaded
+verify that user able to upload the allows files only.for example Doc, docx or pdf. files like jpg,png,etc...
+verify prpoper error message should be shown in case tries to upload the file which is not allowed.file type not allowed.
+verify proper message should be shown in case the user tries to upload more files than the allowed limit.
+verify there some indication on the upload file.
+verify the upload on a locked file password popup should be shown.
+verify file uploaded if the user adds the correct password for the locked file.
+verify proper error message should be in case user adds on the incoorect password.
+verify there should be an indication on file uploaded.
+verify the file name should be same and displayed after uploading the file.
+verify that the file size should be shown under the file name.
+verify an proper error message should be shown if the file size is large than the allowed one.
+verify an error message shown in the file is empty and has no content.
+verify the application behaviour by uploading a large name file.
+drag and drop functionality should be working properly for allowed file types.
+verify drop file the file should not open on the browser.
+verify on drop file should not downnloaded.
